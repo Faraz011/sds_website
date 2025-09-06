@@ -42,21 +42,21 @@ const WorkshopSection = () => {
       title: "Intro to Machine Learning",
       description:
         "Kickstart your ML journey with this beginner-friendly workshop covering basic concepts and practical use-cases.",
-      image: "../../../workshop/slide-1.png",
+      image: "../../../workshop/introToML.jpg",
       detail: "Detailed description of ML"
     },
     {
       title: "Deep Learning & Neural Nets",
       description:
         "Dive deeper into neural networks, backpropagation, and more through hands-on sessions.",
-      image: "../../../workshop/slide-1.png",
+      image: "../../../workshop/deepLearning.jpg",
       detail: "Detailed description of DL and CNN"
     },
     {
       title: "Data Visualization with Python",
       description:
         "Learn how to turn raw data into compelling visuals using libraries like Matplotlib and Seaborn.",
-      image: "../../../workshop/slide-1.png",
+      image: "../../../workshop/dataVisualisation.jpg",
       detail: "Detailed description of DV using Python"
     },
   ];
